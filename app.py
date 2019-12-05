@@ -27,16 +27,3 @@ while True:
     print(
         f"it took you {round(end - start, 2)}s to complete. So {average}words per minute")
     print(f"fastest time {longestTime}")
-# life = 3
-# text = "This is some text for you to copy"
-# for word in text.split(' '):
-#     if life > 0:
-
-#         print(word)
-#         userInput = input()
-#         if userInput == word:
-#             continue
-#         else:
-#             life -= 1
-#     else:
-#         break
